@@ -4,9 +4,9 @@
 * [Project Overview](#-project-overview)
 * [AI & NLP Logic](#-ai--nlp-logic)
 * [Key Features](#-key-features)
-* [Technical Stack](#-technical-stack)
+* [Technical Stack](#%EF%B8%8F-technical-stack)
 * [Data Preview](#%EF%B8%8F-data-preview)
-* [Installation & Setup](#-installation--setup)
+* [Installation & Setup](#%EF%B8%8F-installation--setup)
 * [Usage Guide](#-usage-guide)
 
 ---
@@ -68,4 +68,15 @@ Follow these steps to get the application running on your system:
    pip install -r requirements.txt
 3. **Run the Application:**
    python modern_spellchecker.py
-   
+
+---
+
+## 🤝 How to Use
+
+**Input:** Type or paste your text into the "Input Text" box.
+
+**Correct:** Click the "✨ Correct Text" button.
+
+**Review:** See the corrected version in the output box and check the "Correction Summary" at the bottom for statistics.
+
+**Export:** Click "Copy to Clipboard" to use the corrected text in another application.
