@@ -7,7 +7,7 @@
 * [Technical Stack](#%EF%B8%8F-technical-stack)
 * [Data Preview](#%EF%B8%8F-data-preview)
 * [Installation & Setup](#%EF%B8%8F-installation--setup)
-* [Usage Guide](#%EF%B8%8F-usage-guide)
+* [Usage Guide](#%EF%B8%8F-how-to-use)
 
 ---
 
